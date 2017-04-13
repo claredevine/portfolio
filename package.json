@@ -4,8 +4,6 @@
   "description": "Portfolio of work for Clare Devine",
   "main": "index.html",
   "scripts": {
-    "build-css": "node-sass --include-path scss scss/main.scss   public/css/main.css",
-    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
     "test": "npm test"
   },
   "author": "Clare Devine",
