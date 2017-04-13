@@ -2,6 +2,7 @@
   color: #fff;
   font-family: 'Poiret One', cursive;
   font-size: 50px;
+  font-weight: bolder;
   padding: 0;
   margin: 0;
 }
@@ -9,6 +10,7 @@
 .title {
   color: #fff;
   font-family: 'Poiret One', cursive;
+  font-weight: bolder;
   padding: 0;
   margin: 0;
 }
@@ -18,6 +20,7 @@ ul {
   color: #fff;
   font-family: 'Poiret One', cursive;
   font-size: 22px;
+  font-weight: normal;
   padding-top: 20px;
   padding-left: 0;
   margin: 0
